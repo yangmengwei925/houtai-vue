@@ -1,0 +1,153 @@
+[
+    {
+       "question":"<1> 你会选择如何度过一个有趣的周末？",
+        "id":0,
+        "next":true,
+        "detail":[
+            {
+              "prock":"A",
+               " id":"1",
+                "name":" 邀请好友通关游戏",
+               " checked":false
+            },
+            {
+                "prock":"B",
+               " id":"2",
+                "name":" 去买期待许久的限量版衣物",
+               " checked":false
+            },
+            {
+                "prock":"C",
+               " id":"3",
+                "name":" 组织一场朋友都爱看的派对",
+               " checked":false
+            },
+            {
+                "prock":"D",
+               " id":"4",
+                "name":" 独自在家休息看电影",
+               " checked":false
+            }
+        ]
+    },
+    {
+       "question":"<2> 你一般喜欢哪种姿势睡觉？",
+       " id":1,
+        "detail":[
+            {
+                "prock":"A",
+               " id":"1",
+                "name":" 侧卧",
+               " checked":false
+            },
+            {
+                "prock":"B",
+               " id":"2",
+                "name":" 平躺",
+               " checked":false
+            },
+            {
+                "prock":"C",
+               " id":"3",
+                "name":" 趴着睡",
+               " checked":false
+            },
+            {
+                "prock":"D",
+               " id":"4",
+                "name":" 不固定睡姿",
+               " checked":false
+            }
+        ]
+    },
+    {
+       "question":"<3> 无聊时你更喜欢看什么电视节目？",
+       " id":2,
+        "detail":[
+            {
+                "prock":"A",
+               " id":"1",
+                "name":" 探索推理类电影",
+               " checked":false
+            },
+            {
+                "prock":"B",
+               " id":"2",
+                "name":" 科学科幻纪录片",
+               " checked":false
+            },
+            {
+                "prock":"C",
+               " id":"3",
+                "name":" 故事架构庞大的连续剧",
+               " checked":false
+            },
+            {
+                "prock":"D",
+               " id":"4",
+                "name":" 最近热门的综艺节目",
+               " checked":false
+            }
+        ]
+    },
+    {
+       "question":"<4> 项目交稿只剩一周，而大家都缺席了重要讨论，你作为负责人会怎么做？",
+       " id":3,
+        "detail":[
+            {
+                "prock":"A",
+               " id":"1",
+                "name":" 分工合作，线上安排好大家的工作",
+               " checked":false
+            },
+            {
+                "prock":"B",
+               " id":"2",
+                "name":" 寻求外援，请求领导或朋友的帮助",
+               " checked":false
+            },
+            {
+                "prock":"C",
+               " id":"3",
+                "name":" 不管他们，只做好自己的部分",
+               " checked":false
+            },
+            {
+                "prock":"D",
+               " id":"4",
+                "name":" 一个人熬夜做完所有的工作",
+               " checked":false
+            }
+        ]
+    },
+    {
+       "question":"<5> 以下场景中，哪个最令你感到不安？",
+       " id":4,
+        "detail":[
+            {
+                "prock":"A",
+               " id":"1",
+                "name":" 同事从别人口中听到你说他的小秘密",
+               " checked":false
+            },
+            {
+                "prock":"B",
+               " id":"2",
+                "name":" 老板一整天都没有回复你的提案报告",
+               " checked":false
+            },
+            {
+                "prock":"C",
+               " id":"3",
+                "name":" 这样努力的你，季度考核还不是第一",
+               " checked":false
+            },
+            {
+                "prock":"D",
+               " id":"4",
+                "name":" 在团队中被大家孤立",
+               " checked":false
+            }
+        ]
+    }
+]
